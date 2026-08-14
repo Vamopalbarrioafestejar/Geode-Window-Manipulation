@@ -3,9 +3,9 @@
     "gd": {
         "win": "2.2081"
     },
-    "id": "yourname.windowfx",
+    "id": "Svnth.windowfx",
     "name": "WindowFX Trigger",
     "version": "v0.1.0",
-    "developer": "YourName",
+    "developer": "Syn",
     "description": "Custom trigger object for moving, resizing, fading, and spawning decoy copies of the game window."
 }
