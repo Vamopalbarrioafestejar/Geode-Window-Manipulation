@@ -1,0 +1,11 @@
+{
+    "geode": "v4.0.0",
+    "gd": {
+        "win": "2.2081"
+    },
+    "id": "yourname.windowfx",
+    "name": "WindowFX Trigger",
+    "version": "v0.1.0",
+    "developer": "YourName",
+    "description": "Custom trigger object for moving, resizing, fading, and spawning decoy copies of the game window."
+}
